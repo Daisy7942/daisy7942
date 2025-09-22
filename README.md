@@ -1,6 +1,6 @@
 ## Hi there, I'm Suhyeon 👋 
-### React & TypeScript 기반의 프론트엔드 개발자
-### 사용자 경험을 고려한 UI/UX와 확장 가능한 웹 서비스 구현에 집중합니다.
+#### React & TypeScript 기반의 프론트엔드 개발자
+#### 사용자 경험을 고려한 UI/UX와 확장 가능한 웹 서비스 구현에 집중합니다.
 
 **🔭 Currently Working On**
 
