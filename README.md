@@ -6,7 +6,7 @@
 
 **🔭 Currently Working On**  
 - 포트폴리오 및 사이드 프로젝트 개발  
-- 반응형 UI 구현 및 코드 구조 개선  
+- 반응형 UI 구현 및 코드 구조 개선   
 
 **🌱 Skills & Tools**  
 - **Frontend**: React · TypeScript · Next.js · Redux · React Query  
