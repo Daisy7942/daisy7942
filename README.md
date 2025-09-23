@@ -8,9 +8,9 @@
 - 포트폴리오 및 사이드 프로젝트 개발  
 - 반응형 UI 구현 및 코드 구조 개선   
 
-**🌱 Skills & Tools**  
-- **Frontend**: React · TypeScript · Next.js · Redux · React Query  
-- **Others**: GitHub · Docker · AWS (기초)  
+**🌱Currently Learning**
+- **Frontend**: Next.js · Redux · React Query · TypeScript
+- **Backend / Infra**: Python · Docker · AWS · MLOps · Web Crawling
 
 **👯 Open to Collaborate On**  
 - 사용자 경험 중심의 웹 서비스  
@@ -28,6 +28,7 @@
 작은 아이디어를 바로 코드로 옮기는 걸 좋아하며,  
 UI/UX 개선에서 오는 성취감을 큰 동기로 삼습니다.  
 
+**💻Skills & Tools**  
 <div style="display:flex;gap:10px;flex-wrap:wrap;">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
