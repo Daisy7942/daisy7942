@@ -58,3 +58,4 @@ UI/UX 개선에서 오는 성취감을 큰 동기로 삼습니다.
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black">
 </div>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4783F7&width=435&lines=%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EC%88%98%ED%98%84+%ED%99%94%EC%9D%B4%ED%8C%85" alt="Typing SVG" /></a>
