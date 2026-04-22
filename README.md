@@ -27,7 +27,6 @@
 **⚡ Fun Fact**  
 작은 아이디어를 바로 코드로 옮기는 걸 좋아하며,  
 UI/UX 개선에서 오는 성취감을 큰 동기로 삼습니다.  
-일하고싶어요~~~~~
 
 **💻Skills & Tools**  
 <div style="display:flex;gap:10px;flex-wrap:wrap;">
