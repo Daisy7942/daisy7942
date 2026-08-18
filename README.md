@@ -1,6 +1,12 @@
 ## Hi there, I'm Suhyeon 👋  
-### AI Backend Developer | LLM Service Developer  
+### AI Backend Developer | LLM Service Developer    
 
+
+### 🥄 Developer's Motto
+
+> **배고픈 자는 수저가 없어도 밥을 먹는다.**
+>
+> 없는 도구를 탓하기보다, 필요한 것을 직접 만들고 끝까지 구현합니다.
 ---
 
 **🔭 Currently Working On**  
