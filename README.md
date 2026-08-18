@@ -2,7 +2,7 @@
 ### AI Backend Developer | LLM Service Developer    
 
 
-### 🥄 Developer's Motto
+### 🔧 Developer's Motto
 
 > **배고픈 자는 수저가 없어도 밥을 먹는다.**
 >
