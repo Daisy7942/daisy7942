@@ -14,7 +14,8 @@
 - AI 모델 서빙 기반 웹 서비스 개발  
 - FastAPI를 활용한 API 서버 구조 설계  
 - 로컬 LLM(Ollama) 및 OpenAI API 연동 프로젝트  
-- 포트폴리오 및 사이드 프로젝트 개선  
+- 포트폴리오 및 사이드 프로젝트 개선
+- SQL 학습
 
 **🌱 Currently Learning**  
 - **AI / LLM**: LLM Serving, RAG, Prompt Engineering, Ollama  
